@@ -1,0 +1,1 @@
+CREATE USER automation_development SUPERUSER;
